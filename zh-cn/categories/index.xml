@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Yixiao&#39;s Site</title>
+        <link>http://localhost:1313/zh-cn/categories/</link>
+        <description>Categories - 分类 - Yixiao&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yixiaoma@u.nus.edu (Yixiao)</managingEditor>
+            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Publication</title>
+    <link>http://localhost:1313/zh-cn/categories/publication/</link>
+    <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
+        <name>Yixiao</name>
+    </author><guid>http://localhost:1313/zh-cn/categories/publication/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
