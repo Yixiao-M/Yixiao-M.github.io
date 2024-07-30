@@ -1,57 +1,57 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Authors - Author - Yixiao&#39;s Site</title>
-        <link>http://localhost:1313/authors/</link>
+        <link>https://yixiao-m.github.io/authors/</link>
         <description>Authors - Author - Yixiao&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yixiaoma@u.nus.edu (Yixiao)</managingEditor>
-            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/authors/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="https://yixiao-m.github.io/authors/" rel="self" type="application/rss+xml" /><item>
     <title>CaoYuhong</title>
-    <link>http://localhost:1313/authors/caoyuhong/</link>
+    <link>https://yixiao-m.github.io/authors/caoyuhong/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/caoyuhong/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/caoyuhong/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Derek</title>
-    <link>http://localhost:1313/authors/derek/</link>
+    <link>https://yixiao-m.github.io/authors/derek/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/derek/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/derek/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Guillaume</title>
-    <link>http://localhost:1313/authors/guillaume/</link>
+    <link>https://yixiao-m.github.io/authors/guillaume/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/guillaume/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/guillaume/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>LiangJingsong</title>
-    <link>http://localhost:1313/authors/liangjingsong/</link>
+    <link>https://yixiao-m.github.io/authors/liangjingsong/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/liangjingsong/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/liangjingsong/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>YiChengChng</title>
-    <link>http://localhost:1313/authors/yichengchng/</link>
+    <link>https://yixiao-m.github.io/authors/yichengchng/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/yichengchng/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/yichengchng/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Yixiao</title>
-    <link>http://localhost:1313/authors/yixiao/</link>
+    <link>https://yixiao-m.github.io/authors/yixiao/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/yixiao/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/yixiao/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>ZhaoHanqi</title>
-    <link>http://localhost:1313/authors/zhaohanqi/</link>
+    <link>https://yixiao-m.github.io/authors/zhaohanqi/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/authors/zhaohanqi/</guid>
+    </author><guid>https://yixiao-m.github.io/authors/zhaohanqi/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

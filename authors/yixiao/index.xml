@@ -1,43 +1,43 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Yixiao - Author - Yixiao&#39;s Site</title>
-        <link>http://localhost:1313/authors/yixiao/</link>
+        <link>https://yixiao-m.github.io/authors/yixiao/</link>
         <description>Yixiao - Author - Yixiao&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yixiaoma@u.nus.edu (Yixiao)</managingEditor>
-            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/authors/yixiao/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="https://yixiao-m.github.io/authors/yixiao/" rel="self" type="application/rss+xml" /><item>
     <title>HDPlanner: Hierarchical Decision Network for Autonomous Deployments in Unknown Territories</title>
-    <link>http://localhost:1313/ral2024/</link>
+    <link>https://yixiao-m.github.io/ral2024/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
                         <name>Liang Jingsong</name><uri>https://jingsongliang.com/</uri><email>jingsongliang@nus.edu.sg</email></author><author>
                         <name>Cao Yuhong</name><uri>https://github.com/caoyuhong001</uri><email>caoyuhong@nus.edu.sg</email></author><author>
                         <name>Ma Yixiao</name><uri>https://yixiao-m.github.io/</uri><email>yixiaoma@u.nus.edu</email></author><author>
-                        <name>Zhao Hanqi</name><uri>http://localhost:1313/authors/zhaohanqi</uri></author><author>
-                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>http://localhost:1313/ral2024/</guid>
+                        <name>Zhao Hanqi</name><uri>https://yixiao-m.github.io/authors/zhaohanqi</uri></author><author>
+                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>https://yixiao-m.github.io/ral2024/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/RAL2024/nav.png" referrerpolicy="no-referrer">
             </div><p>Submitted to the IEEE Robotics and Automation Letters (RA-L).</p>]]></description>
 </item><item>
     <title>IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity</title>
-    <link>http://localhost:1313/iros2024/</link>
+    <link>https://yixiao-m.github.io/iros2024/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
                         <name>Derek Ming Siang Tan</name><uri>https://github.com/derektan95/</uri><email>derektan@u.nus.edu</email></author><author>
                         <name>Ma Yixiao</name><uri>https://yixiao-m.github.io/</uri><email>yixiaoma@u.nus.edu</email></author><author>
                         <name>Liang Jingsong</name><uri>https://jingsongliang.com/</uri><email>jingsongliang@nus.edu.sg</email></author><author>
-                        <name>Yi Cheng Chng</name><uri>http://localhost:1313/authors/yichengchng</uri><email>yicheng.chng@stengg.com</email></author><author>
+                        <name>Yi Cheng Chng</name><uri>https://yixiao-m.github.io/authors/yichengchng</uri><email>yicheng.chng@stengg.com</email></author><author>
                         <name>Cao Yuhong</name><uri>https://github.com/caoyuhong001</uri><email>caoyuhong@nus.edu.sg</email></author><author>
-                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>http://localhost:1313/iros2024/</guid>
+                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>https://yixiao-m.github.io/iros2024/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/IROS2024/cover_image_final.jpg" referrerpolicy="no-referrer">
             </div><p>Accepted for oral presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024).</p>]]></description>
 </item><item>
     <title>Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration</title>
-    <link>http://localhost:1313/dars2024/</link>
+    <link>https://yixiao-m.github.io/dars2024/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
                         <name>Ma Yixiao</name><uri>https://yixiao-m.github.io/</uri><email>yixiaoma@u.nus.edu</email></author><author>
                         <name>Liang Jingsong</name><uri>https://jingsongliang.com/</uri><email>jingsongliang@nus.edu.sg</email></author><author>
                         <name>Cao Yuhong</name><uri>https://github.com/caoyuhong001</uri><email>caoyuhong@nus.edu.sg</email></author><author>
                         <name>Derek Ming Siang Tan</name><uri>https://github.com/derektan95/</uri><email>derektan@u.nus.edu</email></author><author>
-                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>http://localhost:1313/dars2024/</guid>
+                        <name>Guillaume Sartoretti</name><uri>https://www.marmotlab.org/bio.html</uri><email>mpegas@nus.edu.sg</email></author><guid>https://yixiao-m.github.io/dars2024/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/DARS2024/cover.jpg" referrerpolicy="no-referrer">
             </div><p>Springer&rsquo;s Distributed Autonomous Robotic Systems 2024 (DARS 2024).</p>]]></description>

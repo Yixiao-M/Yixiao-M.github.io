@@ -1,36 +1,36 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Yixiao&#39;s Site</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://yixiao-m.github.io/tags/</link>
         <description>Tags - Tag - Yixiao&#39;s Site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yixiaoma@u.nus.edu (Yixiao)</managingEditor>
-            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yixiaoma@u.nus.edu (Yixiao)</webMaster><lastBuildDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</lastBuildDate><atom:link href="https://yixiao-m.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Computer Science</title>
-    <link>http://localhost:1313/tags/computer-science/</link>
+    <link>https://yixiao-m.github.io/tags/computer-science/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/tags/computer-science/</guid>
+    </author><guid>https://yixiao-m.github.io/tags/computer-science/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Muti-Robot</title>
-    <link>http://localhost:1313/tags/muti-robot/</link>
+    <link>https://yixiao-m.github.io/tags/muti-robot/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/tags/muti-robot/</guid>
+    </author><guid>https://yixiao-m.github.io/tags/muti-robot/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Reinforcement Learning</title>
-    <link>http://localhost:1313/tags/reinforcement-learning/</link>
+    <link>https://yixiao-m.github.io/tags/reinforcement-learning/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+    </author><guid>https://yixiao-m.github.io/tags/reinforcement-learning/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Robotics</title>
-    <link>http://localhost:1313/tags/robotics/</link>
+    <link>https://yixiao-m.github.io/tags/robotics/</link>
     <pubDate>Wed, 31 Jul 2024 02:56:05 &#43;0800</pubDate><author>
         <name>Yixiao</name>
-    </author><guid>http://localhost:1313/tags/robotics/</guid>
+    </author><guid>https://yixiao-m.github.io/tags/robotics/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
